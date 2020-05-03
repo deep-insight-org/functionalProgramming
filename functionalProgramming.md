@@ -1,4 +1,5 @@
-#Functional Programming
+# Functional Programming
+
 `Assumption: You are alreay familier with any other programming language, no basic of programming language is covered`
 
 ![Scala](assets/scala-spiral.png)
