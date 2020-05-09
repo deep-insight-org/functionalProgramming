@@ -4,6 +4,11 @@ import cats.{Monoid, Show}
 import cats.implicits._
 import cats.kernel.Semigroup
 
+/*
+* 1. State and behaviour are together
+* 2. State and behaviour separate using type classes
+* 3. Sum typ and product type
+* */
 object First extends App {
   //having state and behaviour
   case class Adder(int1: Int, int2: Int) {
